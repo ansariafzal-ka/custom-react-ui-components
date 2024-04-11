@@ -1,6 +1,6 @@
 # Custom React Components Repository
 
-Welcome to the Custom React Components repository! This repository is dedicated to providing a collection of customizable and reusable React components to enhance your web development projects. Whether you're building a simple website or a complex web application, these components aim to streamline your development process and improve user experience.
+Welcome to the Custom React Components repository!
 
 ## Components Included
 
